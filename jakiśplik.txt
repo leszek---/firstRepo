@@ -1,1 +1,2 @@
-jakaś tam informacja o czymś tam
+﻿jakaś tam informacja o czymś tam
+zmiany z nowego brancha, jak to widać ? 
